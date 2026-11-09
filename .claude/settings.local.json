@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx prettier --version)",
+      "PowerShell(npx prettier --check src/App.jsx)",
+      "mcp__idea__get_file_problems"
+    ]
+  }
+}
